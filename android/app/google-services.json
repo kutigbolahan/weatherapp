@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523795923585",
+    "firebase_url": "https://weatherapp-fda2f.firebaseio.com",
+    "project_id": "weatherapp-fda2f",
+    "storage_bucket": "weatherapp-fda2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523795923585:android:0df9cae2b05dc44cb84380",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523795923585-3o5pui6lto05unu7qvjfj2rk57po85jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnM6uKOzLEHIGxC3yLbIVkx7aRz5e1OaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523795923585-3o5pui6lto05unu7qvjfj2rk57po85jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
